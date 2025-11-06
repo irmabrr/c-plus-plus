@@ -26,6 +26,7 @@ g++ filename.cpp
 
 - Variables and Data Types
 - Control Flow (if/else, loops)
+- Vectors 
 - Coming soon!:
     - Functions
     - Arrays and Strings
