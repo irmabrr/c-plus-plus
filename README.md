@@ -17,6 +17,7 @@ This repo helps me:
 If you’d like to run any of the files:
 
 ```cpp
+//on codecademy
 g++ filename.cpp
 ./a.out
 ```
